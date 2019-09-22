@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-swarm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node-RED nodes to implement a swarm of application nodes",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
